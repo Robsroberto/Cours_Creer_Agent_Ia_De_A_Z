@@ -1,0 +1,57 @@
+{
+  "slug": "creer-agent-ia-de-a-z",
+  "title": "Créer votre propre Agent IA de A à Z : du concept à la mise en production",
+  "description": "Apprenez à concevoir, entraîner et déployer un agent d'intelligence artificielle fonctionnel, même sans expérience préalable. Ce cours vous guide pas à pas, du choix des outils à l'intégration finale.",
+  "level": "debutant",
+  "icon": "🤖",
+  "tags": [
+    "ia",
+    "python",
+    "automatisation"
+  ],
+  "price": 5000,
+  "free_chapters": 2,
+  "version": "1.0.0",
+  "chapters": [
+    {
+      "file": "01-introduction.md",
+      "title": "Introduction à l'Agent IA"
+    },
+    {
+      "file": "02-concepts-fondamentaux.md",
+      "title": "Concepts fondamentaux de l'IA et du NLP"
+    },
+    {
+      "file": "03-setup-environnement.md",
+      "title": "Mise en place de l’environnement de développement"
+    },
+    {
+      "file": "04-donnees-preparation.md",
+      "title": "Collecte et préparation des données"
+    },
+    {
+      "file": "05-modelisation-llm.md",
+      "title": "Modélisation avec les grands modèles de langage (LLM)"
+    },
+    {
+      "file": "06-construction-agent.md",
+      "title": "Construction de l’agent conversationnel"
+    },
+    {
+      "file": "07-integration-outils.md",
+      "title": "Intégration d’outils externes"
+    },
+    {
+      "file": "08-tests-evaluation.md",
+      "title": "Tests, validation et évaluation"
+    },
+    {
+      "file": "09-deploiement-docker-cloud.md",
+      "title": "Déploiement avec Docker et le cloud"
+    },
+    {
+      "file": "10-production-monitoring.md",
+      "title": "Mise en production, monitoring et amélioration continue"
+    }
+  ]
+}
